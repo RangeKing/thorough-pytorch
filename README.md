@@ -1,7 +1,9 @@
 # 深入浅出PyTorch
-**在线阅读地址**：https://datawhalechina.github.io/thorough-pytorch/
 
-**配套视频教程**：https://www.bilibili.com/video/BV1L44y1472Z
+>[!IMPORTANT]
+>[在线阅读地址](https://datawhalechina.github.io/thorough-pytorch/) | [配套视频教程](https://www.bilibili.com/video/BV1L44y1472Z) | [智海（国家级AI科教平台）](https://aiplusx.momodel.cn/classroom/class/664bf5db24cff38ad7d2a20e?activeKey=intro)
+>
+>请注意：在线文档更新落后于主仓库更新，建议看source文件夹下的markdown文件
 
 ## 一、项目初衷
 
@@ -92,7 +94,7 @@ PyTorch是利用深度学习进行数据科学研究的重要工具，在灵活�
 |   牛志康   | DataWhale成员，西安电子科技大学本科生 | [[知乎](https://www.zhihu.com/people/obeah-82)][[个人主页](https://nofish-528.github.io/)] |
 |   李嘉骐   | DataWhale成员，清华大学研究生 | [[知乎](https://www.zhihu.com/people/li-jia-qi-16-9/posts)] |
 |    刘洋    | Datawhale成员，中国科学院数学与系统科学研究所研究生 | [[知乎](https://www.zhihu.com/people/ming-ren-19-34/asks)]   |
-|   陈安东   | DataWhale成员，中央民族大学研究生                   | [[个人主页](https://andongblue.github.io/chenandong.github.io/)] |
+|   陈安东   | DataWhale成员，哈尔滨工业大学研究生                   | [[个人主页](https://andongblue.github.io/chenandong.github.io/)] |
 
 教程贡献情况（已上线课程内容）：
 
